@@ -5,7 +5,7 @@ using the SENSEVAL corpus based on the vector space model (VSD).
 
 # performance/accuracy of the model
 
-## precision, recall and accuracy of the word sense disambiguation (WSD) system for the following :
+## precision and recall of the word sense disambiguation (WSD) system for the following :
 
 for the Catalan language...
 https://cloud.githubusercontent.com/assets/9404205/20703161/ba55a246-b640-11e6-84d8-0948b84e2031.PNG
